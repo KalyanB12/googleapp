@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="125" started-at="2016-02-04T04:19:38Z" finished-at="2016-02-04T04:19:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="125" started-at="2016-02-04T04:19:38Z" finished-at="2016-02-04T04:19:38Z">
+      <class name="com.codespace.googleapps.auth.UtilBeansTEst">
+        <test-method status="PASS" signature="getUtilBeans()[pri:0, instance:com.codespace.googleapps.auth.UtilBeansTEst@357246de]" name="getUtilBeans" duration-ms="75" started-at="2016-02-04T09:49:38Z" finished-at="2016-02-04T09:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUtilBeans -->
+      </class> <!-- com.codespace.googleapps.auth.UtilBeansTEst -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
